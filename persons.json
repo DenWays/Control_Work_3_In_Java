@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Дмитрий",
+    "dateOfBirth": "20.06.2004",
+    "email": "dima@gmail.com"
+  },
+  {
+    "name": "Иван",
+    "dateOfBirth": "15.03.2008",
+    "email": "ivan@gmail.com"
+  },
+  {
+    "name": "Александр",
+    "dateOfBirth": "06.01.2002",
+    "email": "alexander@gmail.com"
+  },
+  {
+    "name": "Денис",
+    "dateOfBirth": "02.02.2000",
+    "email": "denis@gmail.com"
+  },
+  {
+    "name": "Алексей",
+    "dateOfBirth": "20.09.2009",
+    "email": "alex@gmail.com"
+  },
+  {
+    "name": "Кирилл",
+    "dateOfBirth": "30.11.2001",
+    "email": "kirill@gmail.com"
+  },
+  {
+    "name": "Андрей",
+    "dateOfBirth": "18.04.1999",
+    "email": "andrey@gmail.com"
+  },
+  {
+    "name": "Тимур",
+    "dateOfBirth": "20.04.2018",
+    "email": "andrey@gmail.com"
+  },
+  {
+    "name": "Тимофей",
+    "dateOfBirth": "10.12.1960",
+    "email": "andrey@gmail.com"
+  },
+  {
+    "name": "Николай",
+    "dateOfBirth": "01.03.1973",
+    "email": "andrey@gmail.com"
+  },
+  {
+    "name": "Николай",
+    "dateOfBirth": "01.03.1973",
+    "email": "andrey@gmail.com"
+  },
+  {
+    "name": "Владимир",
+    "dateOfBirth": "15.11.2019",
+    "email": "andrey@gmail.com"
+  }
+
+]

@@ -1,0 +1,584 @@
+дек. 20, 2024 9:52:34 AM org.example.Main getPersons
+WARNING: Некорректная дата рождения
+дек. 20, 2024 9:52:48 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 9:52:48 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 9:52:48 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 9:52:48 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 9:52:48 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Дмитрий dima@gmail2.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Александр alexander@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Денис denis@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Кирилл kirill@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Андрей andrey@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Тимофей andrey@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: 26.833333333333332
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail2.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Алексей 2009-09-20 alex@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Тимур 2018-04-20 andrey@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Владимир 2019-11-15 andrey@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail2.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Александр 2002-01-06 alexander@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Кирилл 2001-11-30 kirill@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Андрей 1999-04-18 andrey@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 9:55:06 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 9:56:45 AM org.example.Main getPersons
+WARNING: Некорректный email
+дек. 20, 2024 9:56:56 AM org.example.Main getPersons
+WARNING: Некорректный email
+дек. 20, 2024 9:59:02 AM org.example.Main getPersons
+WARNING: Некорректный email
+дек. 20, 2024 9:59:25 AM org.example.Main getPersons
+WARNING: Некорректный email
+дек. 20, 2024 9:59:54 AM org.example.Main getPersons
+WARNING: Некорректный email
+дек. 20, 2024 10:00:23 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Дмитрий dima@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Александр alexander@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Денис denis@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Кирилл kirill@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Андрей andrey@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Тимофей andrey@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: 26.833333333333332
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Алексей 2009-09-20 alex@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Тимур 2018-04-20 andrey@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Владимир 2019-11-15 andrey@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Александр 2002-01-06 alexander@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Кирилл 2001-11-30 kirill@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Андрей 1999-04-18 andrey@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:00:23 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Дмитрий dima@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Александр alexander@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Денис denis@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Кирилл kirill@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Андрей andrey@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Тимофей andrey@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: 26.833333333333332
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Алексей 2009-09-20 alex@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Тимур 2018-04-20 andrey@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Владимир 2019-11-15 andrey@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Александр 2002-01-06 alexander@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Кирилл 2001-11-30 kirill@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Андрей 1999-04-18 andrey@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:00:44 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:00:53 AM org.example.Main getPersons
+WARNING: Некорректный email
+дек. 20, 2024 10:10:01 AM org.example.Main getPersons
+WARNING: personss.json (Не удается найти указанный файл)
+дек. 20, 2024 10:10:09 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Дмитрий dima@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Александр alexander@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Денис denis@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Кирилл kirill@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Андрей andrey@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Тимофей andrey@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: 26.833333333333332
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Алексей 2009-09-20 alex@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Тимур 2018-04-20 andrey@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Владимир 2019-11-15 andrey@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Александр 2002-01-06 alexander@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Кирилл 2001-11-30 kirill@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Андрей 1999-04-18 andrey@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:10:09 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Дмитрий dima@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Александр alexander@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Денис denis@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Кирилл kirill@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Андрей andrey@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Тимофей andrey@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: 26.833333333333332
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Алексей 2009-09-20 alex@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Тимур 2018-04-20 andrey@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Владимир 2019-11-15 andrey@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Александр 2002-01-06 alexander@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Кирилл 2001-11-30 kirill@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Андрей 1999-04-18 andrey@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:16:19 AM org.example.Main main
+INFO: 9
+дек. 20, 2024 10:17:03 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Дмитрий dima@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Александр alexander@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Денис denis@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Кирилл kirill@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Андрей andrey@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Тимофей andrey@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: 26.833333333333332
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Алексей 2009-09-20 alex@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Тимур 2018-04-20 andrey@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Владимир 2019-11-15 andrey@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Александр 2002-01-06 alexander@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Кирилл 2001-11-30 kirill@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Андрей 1999-04-18 andrey@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:17:03 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:17:08 AM org.example.Main main
+INFO: 4954
+дек. 20, 2024 10:17:25 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Дмитрий dima@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Александр alexander@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Денис denis@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Кирилл kirill@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Андрей andrey@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Тимофей andrey@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: 26.833333333333332
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Алексей 2009-09-20 alex@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Тимур 2018-04-20 andrey@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Владимир 2019-11-15 andrey@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Александр 2002-01-06 alexander@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Кирилл 2001-11-30 kirill@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Андрей 1999-04-18 andrey@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:17:25 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Дмитрий dima@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Александр alexander@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Денис denis@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Кирилл kirill@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Андрей andrey@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Тимофей andrey@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: 26.833333333333332
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Алексей 2009-09-20 alex@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Тимур 2018-04-20 andrey@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Владимир 2019-11-15 andrey@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Александр 2002-01-06 alexander@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Кирилл 2001-11-30 kirill@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Андрей 1999-04-18 andrey@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:18:29 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:18:34 AM org.example.Main main
+INFO: 5074
+дек. 20, 2024 10:19:14 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Дмитрий dima@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Александр alexander@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Денис denis@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Кирилл kirill@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Андрей andrey@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Тимофей andrey@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: 26.833333333333332
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Алексей 2009-09-20 alex@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Тимур 2018-04-20 andrey@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Владимир 2019-11-15 andrey@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Александр 2002-01-06 alexander@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Кирилл 2001-11-30 kirill@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Андрей 1999-04-18 andrey@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Тимофей 1960-12-10 andrey@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:19:14 AM org.example.Main main
+INFO: Николай 1973-03-01 andrey@gmail.com
+дек. 20, 2024 10:19:19 AM org.example.Main main
+INFO: 5
+дек. 20, 2024 10:43:59 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:43:59 AM org.example.Main writePersonsToJSON
+INFO: Дмитрий dima@gmail.com
+дек. 20, 2024 10:43:59 AM org.example.Main writePersonsToJSON
+INFO: Александр alexander@gmail.com
+дек. 20, 2024 10:43:59 AM org.example.Main writePersonsToJSON
+INFO: Денис denis@gmail.com
+дек. 20, 2024 10:43:59 AM org.example.Main writePersonsToJSON
+INFO: Кирилл kirill@gmail.com
+дек. 20, 2024 10:43:59 AM org.example.Main writePersonsToJSON
+INFO: Андрей andrey@gmail.com
+дек. 20, 2024 10:43:59 AM org.example.Main writePersonsToJSON
+INFO: Тимофей andrey@gmail.com
+дек. 20, 2024 10:43:59 AM org.example.Main writePersonsToJSON
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:43:59 AM org.example.Main writePersonsToJSON
+INFO: Николай andrey@gmail.com
+дек. 20, 2024 10:43:59 AM org.example.Main main
+INFO: 35.0
+дек. 20, 2024 10:43:59 AM org.example.Main lambda$main$2
+INFO: Дмитрий 2004-06-20 dima@gmail.com
+дек. 20, 2024 10:43:59 AM org.example.Main lambda$main$2
+INFO: Иван 2008-03-15 ivan@gmail.com
+дек. 20, 2024 10:43:59 AM org.example.Main lambda$main$2
+INFO: Денис 2000-02-02 denis@gmail.com
+дек. 20, 2024 10:43:59 AM org.example.Main lambda$main$2
+INFO: Тимофей 1960-12-10 andrey@gmail.com
